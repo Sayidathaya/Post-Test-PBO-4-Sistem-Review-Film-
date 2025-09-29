@@ -8,7 +8,7 @@
 
 ---
 
-## 📂 Struktur Folder (MVC)
+## 📂 Struktur Folder 
 <img width="269" height="250" alt="Image" src="https://github.com/user-attachments/assets/989e6050-4978-49d1-ba81-e918254a33d5" />
 
 ---
